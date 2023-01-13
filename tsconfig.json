@@ -15,10 +15,6 @@
     "isolatedModules": true,
     "jsx": "preserve",
     "baseUrl": "src",
-    "paths": {
-      "@components/*": ["components/*"],
-      "@styles/*": ["styles/*"]
-    },
     "plugins": [
       {
         "name": "next"
